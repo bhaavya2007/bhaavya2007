@@ -26,6 +26,14 @@ A machine learning project that predicts electric motor temperature using Linear
 
 [View Project](https://github.com/bhaavya2007/ElectricMotorTemperaturePrediction_mst9)
 
+### Arduino Reaction Time Game
+
+A reaction-time game built using an Arduino UNO R4 Minima, a 16×2 I2C LCD, a push button and two LEDs.
+
+The game uses random waiting periods, detects early button presses and calculates the minimum, maximum and average reaction times across three successful attempts.
+
+[View Project](https://github.com/bhaavya2007/Arduino_Reaction_Time_Game)
+
 ## Currently Learning
 
 - Data Structures and Algorithms using C++
