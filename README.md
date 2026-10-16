@@ -18,7 +18,7 @@ A joystick-controlled robotic arm using an Arduino UNO R4 Minima, two servo moto
 
 The joystick controls motor movement, while a push button allows switching between the two servo motors.
 
-[View Project](https://github.com/bhaavya2007/Arduino-Robotic-Arm)
+[View Project](https://github.com/bhaavya2007/Arduino_Robotic_Arm)
 
 ### Electric Motor Temperature Prediction
 
